@@ -19,7 +19,8 @@ This repository has the project that is part of the Responsive Web Design in Fre
 
 [City Sky project - Variables with CSS.](https://github.com/CesarPasillas/responsive-web-design/tree/main/Building%20a%20City%20Sky)
 
-[Magazine - CSS Grid](https://github.com/CesarPasillas/responsive-web-design/tree/main/Magazine)
+* [Magazine - CSS Grid](https://github.com/CesarPasillas/responsive-web-design/tree/main/Magazine)
+* CSS Grid gives you control over the rows and columns of your webpage design.
 
 <a href="https://programmingsquirrel.wordpress.com/">
   <img src="https://programmingsquirrel.wordpress.com/wp-content/uploads/2023/05/logo_ardilla_programmer_blue.png" alt="Programmer Squirrel" width="150" height="150">
