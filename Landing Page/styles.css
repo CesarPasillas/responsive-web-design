@@ -1,0 +1,64 @@
+:root{
+    --background-color: #aee6fb;
+    --a-color: #a8fdfc;
+    --font-color: black;
+  
+  }
+  
+  body{
+    background-color: var(--background-color);
+    color: var(--font-color);
+  }
+  
+  a{
+    color: var(--font-color);
+    text-decoration: none;
+    padding: 20px 50px;
+    
+  }
+  
+  a:hover{
+    background-color: var(--a-color);
+  }
+  
+  iframe{
+    padding-top: 155px;
+    padding-bottom: 50px;
+    width: 560px;
+    height: 315px;
+  }
+  
+  form{
+    border: 1px;
+  }
+  
+  form #email{
+    background-color: var(--a-color);
+    color: white;
+  }
+  
+  .header-img{
+    width: 150;
+    height: 150;
+  }
+  
+  .nav-bar{
+    display: flex;
+    justify-content: space-between; 
+    align-items: center;
+    position: fixed; 
+    z-index: 1000;
+  }
+  
+  @media (max-width: 500px){
+    :root{
+      --background-color: #5e17eb;
+      --a-color: #7b759f;
+      --font-color: white;
+    }
+  
+    a{
+    padding: 2px 15px;
+  }
+    
+  }
