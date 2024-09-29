@@ -17,8 +17,12 @@ This repository has the project that is part of the Responsive Web Design in Fre
 * [Rothko Painting - CSS Box Model](https://github.com/CesarPasillas/responsive-web-design/tree/main/Rothko%20Painting) - Every HTML element is its box – with its spacing and a border. This is called the Box Model.
 * [Photo Gallery - CSS Flexbox](https://github.com/CesarPasillas/responsive-web-design/tree/main/Photo%20Gallery) - Flexbox helps you design your webpage so that it looks good on any screen size.
 * [Nutrition Label - Typography](https://github.com/CesarPasillas/responsive-web-design/tree/main/Nutrition%20Label) - Typography is the art of styling your text to be easily readable and suit its purpose.
-* [Quiz - Accessibility](https://github.com/CesarPasillas/responsive-web-design/tree/main/Quiz) - Accessibility is making your webpage easy for all people to use – even people with disabilities.
+* [Quiz - Accessibility](https://github.com/CesarPasillas/responsive-web-design/tree/main/Quiz) - Accessibility makes your webpage easy for everyone – even people with disabilities.
+* [Balance Sheet - Pseudo Selectors](https://github.com/CesarPasillas/responsive-web-design/tree/main/Balance%20Sheet) - You can use CSS pseudo selectors to change specific HTML elements.
+* [Cat Painting - Intermediate CSS](https://github.com/CesarPasillas/responsive-web-design/tree/main/Cat%20Painting) - Mastering CSS positioning is essential for creating visually appealing and responsive web layouts.
 * [Tribute Page - Project](https://github.com/CesarPasillas/responsive-web-design/tree/main/Tribute%20Page) - Project to check your knowledge.
+* [Piano - Responsive Web Design](https://github.com/CesarPasillas/responsive-web-design/tree/main/Piano) - Responsive Design tells your webpage how it should look on different-sized screens.
+* [Technical Documentaion Page - Project](https://github.com/CesarPasillas/responsive-web-design/tree/main/Technical%20Documentation%20Page) - Project to check your knowledge
 * [City Sky project - Variables with CSS](https://github.com/CesarPasillas/responsive-web-design/tree/main/Building%20a%20City%20Sky) - CSS variables help you organize your styles and reuse them.
 * [Magazine - CSS Grid](https://github.com/CesarPasillas/responsive-web-design/tree/main/Magazine) - CSS Grid gives you control over the rows and columns of your webpage design.
 
