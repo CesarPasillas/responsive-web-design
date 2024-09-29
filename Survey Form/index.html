@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+      <meta charset="UTF-8">
+      <link rel="stylesheet" href="styles.css">
+      <title>Survey Form</title>
+    </head>
+    <body>
+      <h1 id="title">Survey Form</h1>
+      <p id="description">Please fill the details with required data</p>
+      <form id="survey-form" method="POST">
+        <fieldset>
+          <label id="name-label" for="name">Name: <input id="name" type="text" required placeholder="Name..."></label>
+          <label id="email-label" for="email" >Email: <input id="email" name="email" type="email" required placeholder="someone@mail.com"/></label>
+          <label id="number-label" for="number">Number: <input id="number" name="number" type="number" required min="18" max="120" placeholder="You must 18 to use it"/></label>
+          <select id="dropdown">
+            <option value="">(select one)</option>
+            <option value="1">To match</option>
+            <option value="2">Have fun</option>
+          </select>
+        </fieldset>
+        <fieldset>
+          <legend>Account type (required)</legend>
+          <label for="personal-account"><input id="personal-account" type="radio" name="name" checked value="p"/> Personal</label>
+          <label for="incognit-account"><input id="incognit-account" type="radio" name="name" value="i"/> Incognit</label>
+        </fieldset>
+        <fieldset>
+          <legend>Body Type</legend>
+          <label for="hairy">
+        <input id="hair" type="checkbox" required name="hairy" value="1"> Hairy
+      </label>
+      <label for="some-hair">
+        <input id="some-hair" type="checkbox" required name="some-hair" value="2"> Some hair
+      </label>
+      <label for="smooth">
+        <input id="smooth" type="checkbox" required name="smooth" value="3"> Smooth
+      </label>
+        </fieldset>
+        <fieldset>
+          <Label>About me:<textarea id="bio" name="bio" rows="3" cols="30" placeholder="I like walking on the beach..."></textarea></label>
+        </fieldset>
+        <input id="submit" type="submit" value="Submit" />
+      </form>
+    </body>
+<html>
