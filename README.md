@@ -25,6 +25,9 @@ This repository has the project that is part of the Responsive Web Design in Fre
 * [Technical Documentaion Page - Project](https://github.com/CesarPasillas/responsive-web-design/tree/main/Technical%20Documentation%20Page) - Project to check your knowledge
 * [City Sky project - Variables with CSS](https://github.com/CesarPasillas/responsive-web-design/tree/main/Building%20a%20City%20Sky) - CSS variables help you organize your styles and reuse them.
 * [Magazine - CSS Grid](https://github.com/CesarPasillas/responsive-web-design/tree/main/Magazine) - CSS Grid gives you control over the rows and columns of your webpage design.
+* [Landing Page - Project](https://github.com/CesarPasillas/responsive-web-design/tree/main/Landing%20Page) - Project to check your knowledge.
+* [Ferris Wheel - CSS Animation](https://github.com/CesarPasillas/responsive-web-design/tree/main/Ferris%20Wheel) - You can use CSS animation to draw attention to specific sections of your webpage and make it more engaging.
+* [Penguin - CSS Transform](https://github.com/CesarPasillas/responsive-web-design/tree/main/Penguin) - You can transform HTML elements to create appealing designs that draw your reader's eye. You can use transforms to rotate elements, scale them, and more.
 
   
 ##
