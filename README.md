@@ -1,9 +1,7 @@
 # Responsive web design
 This repository has the project that is part of the Responsive Web Design in FreeCodeCamp.
 
-:construction: Proyecto en construcción :construction:
-
-![Version](https://img.shields.io/badge/Version-0.1-blue)
+![Version](https://img.shields.io/badge/Version-1.0-blue)
 
 [![Autor](https://img.shields.io/badge/Author-Cesar_"Aran"_Pasillas-black)](https://programmingsquirrel.wordpress.com/about-me/)
 
